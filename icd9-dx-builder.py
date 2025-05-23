@@ -1,3 +1,6 @@
+#Developed by ODAT project
+#please see https://odat.info
+#please see https://github.com/ODAT-Project
 import re
 import pandas as pd
 from tkinter import Tk, filedialog, messagebox, Button
